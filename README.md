@@ -20,8 +20,8 @@ Each service exposes independent `/health` probes, strict Pydantic v2 validation
 - **Antigravity Autonomous Agent SKILL.md & MCP Server Developer Powerpack** ($59.00 one-time) — https://payhip.com/b/NQY3o
 - **Autonomous AI Agent Persistent RAG Memory & Conversation Compaction Kit** ($79.00 one-time) — https://payhip.com/b/uKjqB
 - **Multi-Tenant B2B SaaS Metered Billing & Webhook Reconciliation Engine** ($69.00 one-time) — https://payhip.com/b/4f87q
-- **Deterministic Multi-Currency FX Conversion & Settlement Ledger Engine** ($69.00 one-time) — https://payhip.com/b/KbETP
-- **Cryptographic Software License Key Generator & Offline Activation Kit** ($79.00 one-time) — https://payhip.com/b/70LKN
+- **Deterministic Multi-Currency FX Conversion & Settlement Ledger Engine** ($79.00 one-time) — https://payhip.com/b/KbETP
+- **Cryptographic Software License Key Generator & Offline Activation Kit** ($69.00 one-time) — https://payhip.com/b/70LKN
 
 ## Quick Gateway Smoke Test (`curl`)
 ```bash

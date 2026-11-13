@@ -9,8 +9,8 @@ Generated automatically from verified local packages and `publish_registry.json`
 | 2 | Antigravity Autonomous Agent SKILL.md & MCP Server Developer Powerpack | $59.00 | `PUBLISHED_LIVE` | https://payhip.com/b/NQY3o |
 | 7 | Autonomous AI Agent Persistent RAG Memory & Conversation Compaction Kit | $79.00 | `PUBLISHED_LIVE` | https://payhip.com/b/uKjqB |
 | 8 | Multi-Tenant B2B SaaS Metered Billing & Webhook Reconciliation Engine | $69.00 | `PUBLISHED_LIVE` | https://payhip.com/b/4f87q |
-| 14 | Deterministic Multi-Currency FX Conversion & Settlement Ledger Engine | $69.00 | `PUBLISHED_LIVE` | https://payhip.com/b/KbETP |
-| 18 | Cryptographic Software License Key Generator & Offline Activation Kit | $79.00 | `PUBLISHED_LIVE` | https://payhip.com/b/70LKN |
+| 14 | Deterministic Multi-Currency FX Conversion & Settlement Ledger Engine | $79.00 | `PUBLISHED_LIVE` | https://payhip.com/b/KbETP |
+| 18 | Cryptographic Software License Key Generator & Offline Activation Kit | $69.00 | `PUBLISHED_LIVE` | https://payhip.com/b/70LKN |
 
 ## 2. Hosted Microservice APIs (Render Gateway + RapidAPI)
 
